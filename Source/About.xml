@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>Combat Enthusiast's Collection</name>
+  <author>Pooler</author>
+  <url>
+  </url>
+  <supportedVersions>
+    <li>1.0</li>
+    <li>1.1</li>
+  </supportedVersions>
+  <packageId>CEC.CombatEnthuCore</packageId>
+  <description>
+Update 1.1.4.1:
+Check mod settings to select a Combat Extended patch,
+Restarting is mandatory for the changes to take effect!
+
+A selection of firearms aimed to enhance the vanilla experience, but it's more of a personal collection really. Primarilly balanced around vanilla weapons / Combat Extended and its weapon expansion mods. Credits to Meru for LoadOnDemand, Jecrell for JecsTools, and Andross for several firing sounds. Please report bugs/inconsistencies to the steam workshop page.</description>
+</ModMetaData>

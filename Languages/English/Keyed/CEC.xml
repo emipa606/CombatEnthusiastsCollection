@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <UsePatchCEDesc>Changing requires a restart. Select which patch of Combat Extended will be used. Remember to backup your saves.</UsePatchCEDesc>
+  <UsePatchVanilla>Unpatched Vanilla Rimworld</UsePatchVanilla>
+  <UsePatchCE15>Combat Extended (1.5)</UsePatchCE15>
+  <UsePatchCE16>Combat Extended (1.6) (Latest)</UsePatchCE16>
+  <SettingsModName>Combat Enthusiast's Collection</SettingsModName>
+</LanguageData>
