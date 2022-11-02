@@ -1,0 +1,416 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <SoundDef>
+    <defName>CEC_DragoonShot</defName>
+    <context>MapOnly</context>
+    <eventNames />
+    <maxSimultaneous>1</maxSimultaneous>
+    <subSounds>
+      <li>
+        <grains>
+          <li Class="AudioGrain_Clip">
+            <clipPath>Fired/Shot_Dragoon</clipPath>
+          </li>
+        </grains>
+        <volumeRange>
+          <min>10.2941</min>
+          <max>10.2941</max>
+        </volumeRange>
+        <pitchRange>
+          <min>1.091765</min>
+          <max>1</max>
+        </pitchRange>
+        <sustainLoop>False</sustainLoop>
+      </li>
+    </subSounds>
+  </SoundDef>
+  <!-- SUBMACHINE GUNS -->
+  <SoundDef>
+    <defName>CEC_P90Shot</defName>
+    <context>MapOnly</context>
+    <eventNames />
+    <maxSimultaneous>1</maxSimultaneous>
+    <subSounds>
+      <li>
+        <grains>
+          <li Class="AudioGrain_Clip">
+            <clipPath>Fired/Shot_P90</clipPath>
+          </li>
+        </grains>
+        <volumeRange>
+          <min>14.2941</min>
+          <max>14.2941</max>
+        </volumeRange>
+        <pitchRange>
+          <min>1</min>
+          <max>1</max>
+        </pitchRange>
+        <sustainLoop>False</sustainLoop>
+      </li>
+    </subSounds>
+  </SoundDef>
+  <SoundDef>
+    <defName>CEC_SuomiShot</defName>
+    <context>MapOnly</context>
+    <eventNames />
+    <maxSimultaneous>1</maxSimultaneous>
+    <subSounds>
+      <li>
+        <grains>
+          <li Class="AudioGrain_Clip">
+            <clipPath>Fired/Shot_Suomi</clipPath>
+          </li>
+        </grains>
+        <volumeRange>
+          <min>10.2941</min>
+          <max>10.2941</max>
+        </volumeRange>
+        <pitchRange>
+          <min>1</min>
+          <max>1</max>
+        </pitchRange>
+        <sustainLoop>False</sustainLoop>
+      </li>
+    </subSounds>
+  </SoundDef>
+  <!-- LONG RANGE RIFLES -->
+  <SoundDef>
+    <defName>CEC_M14Shot</defName>
+    <context>MapOnly</context>
+    <eventNames />
+    <maxSimultaneous>1</maxSimultaneous>
+    <subSounds>
+      <li>
+        <grains>
+          <li Class="AudioGrain_Clip">
+            <clipPath>Fired/Shot_M1A</clipPath>
+          </li>
+        </grains>
+        <volumeRange>
+          <min>20.2941</min>
+          <max>20.2941</max>
+        </volumeRange>
+        <pitchRange>
+          <min>1.011765</min>
+          <max>1</max>
+        </pitchRange>
+        <sustainLoop>False</sustainLoop>
+      </li>
+    </subSounds>
+  </SoundDef>
+  <SoundDef>
+    <defName>CEC_DVL10Shot</defName>
+    <context>MapOnly</context>
+    <eventNames />
+    <maxSimultaneous>1</maxSimultaneous>
+    <subSounds>
+      <li>
+        <grains>
+          <li Class="AudioGrain_Clip">
+            <clipPath>Fired/Shot_DVL10</clipPath>
+          </li>
+        </grains>
+        <volumeRange>
+          <min>25.2941</min>
+          <max>25.2941</max>
+        </volumeRange>
+        <pitchRange>
+          <min>1.011765</min>
+          <max>1</max>
+        </pitchRange>
+        <sustainLoop>False</sustainLoop>
+      </li>
+    </subSounds>
+  </SoundDef>
+  <SoundDef>
+    <defName>CEC_InterventionShot</defName>
+    <context>MapOnly</context>
+    <eventNames />
+    <maxSimultaneous>1</maxSimultaneous>
+    <subSounds>
+      <li>
+        <grains>
+          <li Class="AudioGrain_Clip">
+            <clipPath>Fired/Shot_Intervention</clipPath>
+          </li>
+        </grains>
+        <volumeRange>
+          <min>12.2941</min>
+          <max>12.2941</max>
+        </volumeRange>
+        <pitchRange>
+          <min>1.011765</min>
+          <max>1</max>
+        </pitchRange>
+        <sustainLoop>False</sustainLoop>
+      </li>
+    </subSounds>
+  </SoundDef>
+  <SoundDef>
+    <defName>CEC_WA2000Shot</defName>
+    <context>MapOnly</context>
+    <eventNames />
+    <maxSimultaneous>1</maxSimultaneous>
+    <subSounds>
+      <li>
+        <grains>
+          <li Class="AudioGrain_Clip">
+            <clipPath>Fired/Shot_WA2000</clipPath>
+          </li>
+        </grains>
+        <volumeRange>
+          <min>12.2941</min>
+          <max>12.2941</max>
+        </volumeRange>
+        <pitchRange>
+          <min>1.011765</min>
+          <max>1</max>
+        </pitchRange>
+        <sustainLoop>False</sustainLoop>
+      </li>
+    </subSounds>
+  </SoundDef>
+  <SoundDef>
+    <defName>CEC_NTW20Shot</defName>
+    <context>MapOnly</context>
+    <eventNames />
+    <maxSimultaneous>1</maxSimultaneous>
+    <subSounds>
+      <li>
+        <grains>
+          <li Class="AudioGrain_Clip">
+            <clipPath>Fired/Shot_NTW20</clipPath>
+          </li>
+        </grains>
+        <volumeRange>
+          <min>16.2941</min>
+          <max>16.2941</max>
+        </volumeRange>
+        <pitchRange>
+          <min>1.011765</min>
+          <max>1</max>
+        </pitchRange>
+        <sustainLoop>False</sustainLoop>
+      </li>
+    </subSounds>
+  </SoundDef>
+  <!-- ASSAULT RIFLES -->
+  <SoundDef>
+    <defName>CEC_AN94Shot</defName>
+    <context>MapOnly</context>
+    <eventNames />
+    <maxSimultaneous>1</maxSimultaneous>
+    <subSounds>
+      <li>
+        <grains>
+          <li Class="AudioGrain_Clip">
+            <clipPath>Fired/Shot_AN94</clipPath>
+          </li>
+        </grains>
+        <volumeRange>
+          <min>25</min>
+          <max>25</max>
+        </volumeRange>
+        <pitchRange>
+          <min>1</min>
+          <max>1</max>
+        </pitchRange>
+        <sustainLoop>False</sustainLoop>
+      </li>
+    </subSounds>
+  </SoundDef>
+  <SoundDef>
+    <defName>CEC_AKS74UShot</defName>
+    <context>MapOnly</context>
+    <eventNames />
+    <maxSimultaneous>1</maxSimultaneous>
+    <subSounds>
+      <li>
+        <grains>
+          <li Class="AudioGrain_Clip">
+            <clipPath>Fired/Shot_AKS74U</clipPath>
+          </li>
+        </grains>
+        <volumeRange>
+          <min>5.2941</min>
+          <max>5.2941</max>
+        </volumeRange>
+        <pitchRange>
+          <min>1.011765</min>
+          <max>1</max>
+        </pitchRange>
+        <sustainLoop>False</sustainLoop>
+      </li>
+    </subSounds>
+  </SoundDef>
+  <SoundDef>
+    <defName>CEC_A545Shot</defName>
+    <context>MapOnly</context>
+    <eventNames />
+    <maxSimultaneous>1</maxSimultaneous>
+    <subSounds>
+      <li>
+        <grains>
+          <li Class="AudioGrain_Clip">
+            <clipPath>Fired/Shot_A545</clipPath>
+          </li>
+        </grains>
+        <volumeRange>
+          <min>22.2941</min>
+          <max>22.2941</max>
+        </volumeRange>
+        <pitchRange>
+          <min>1.011765</min>
+          <max>1</max>
+        </pitchRange>
+        <sustainLoop>False</sustainLoop>
+      </li>
+    </subSounds>
+  </SoundDef>
+  <SoundDef>
+    <defName>CEC_G11Shot</defName>
+    <context>MapOnly</context>
+    <eventNames />
+    <maxSimultaneous>1</maxSimultaneous>
+    <subSounds>
+      <li>
+        <grains>
+          <li Class="AudioGrain_Clip">
+            <clipPath>Fired/Shot_G11</clipPath>
+          </li>
+        </grains>
+        <volumeRange>
+          <min>15.2941</min>
+          <max>15.2941</max>
+        </volumeRange>
+        <pitchRange>
+          <min>1</min>
+          <max>1</max>
+        </pitchRange>
+        <sustainLoop>False</sustainLoop>
+      </li>
+    </subSounds>
+  </SoundDef>
+  <SoundDef>
+    <defName>CEC_SuppressedShot</defName>
+    <context>MapOnly</context>
+    <eventNames />
+    <maxSimultaneous>1</maxSimultaneous>
+    <subSounds>
+      <li>
+        <grains>
+          <li Class="AudioGrain_Clip">
+            <clipPath>Fired/SuppressedShot</clipPath>
+          </li>
+        </grains>
+        <volumeRange>
+          <min>25.2941</min>
+          <max>25.2941</max>
+        </volumeRange>
+        <pitchRange>
+          <min>1.091765</min>
+          <max>1</max>
+        </pitchRange>
+        <sustainLoop>False</sustainLoop>
+      </li>
+    </subSounds>
+  </SoundDef>
+  <!-- SHOTGUNS -->
+  <SoundDef>
+    <defName>CEC_UTS15Shot</defName>
+    <context>MapOnly</context>
+    <eventNames />
+    <maxSimultaneous>1</maxSimultaneous>
+    <subSounds>
+      <li>
+        <grains>
+          <li Class="AudioGrain_Clip">
+            <clipPath>Fired/Shot_UTS15</clipPath>
+          </li>
+        </grains>
+        <volumeRange>
+          <min>14.2941</min>
+          <max>14.2941</max>
+        </volumeRange>
+        <pitchRange>
+          <min>1</min>
+          <max>1</max>
+        </pitchRange>
+        <sustainLoop>False</sustainLoop>
+      </li>
+    </subSounds>
+  </SoundDef>
+  <SoundDef>
+    <defName>CEC_SuperShortyShot</defName>
+    <context>MapOnly</context>
+    <eventNames />
+    <maxSimultaneous>1</maxSimultaneous>
+    <subSounds>
+      <li>
+        <grains>
+          <li Class="AudioGrain_Clip">
+            <clipPath>Fired/Shot_SuperShorty</clipPath>
+          </li>
+        </grains>
+        <volumeRange>
+          <min>14.2941</min>
+          <max>14.2941</max>
+        </volumeRange>
+        <pitchRange>
+          <min>1</min>
+          <max>1</max>
+        </pitchRange>
+        <sustainLoop>False</sustainLoop>
+      </li>
+    </subSounds>
+  </SoundDef>
+  <!-- MACHINEGUNS -->
+  <SoundDef>
+    <defName>CEC_KnightsLWAMGShot</defName>
+    <context>MapOnly</context>
+    <eventNames />
+    <maxSimultaneous>1</maxSimultaneous>
+    <subSounds>
+      <li>
+        <grains>
+          <li Class="AudioGrain_Clip">
+            <clipPath>Fired/Shot_KnightsLWAMG</clipPath>
+          </li>
+        </grains>
+        <volumeRange>
+          <min>12.2941</min>
+          <max>12.2941</max>
+        </volumeRange>
+        <pitchRange>
+          <min>1.011765</min>
+          <max>1</max>
+        </pitchRange>
+        <sustainLoop>False</sustainLoop>
+      </li>
+    </subSounds>
+  </SoundDef>
+  <SoundDef>
+    <defName>CEC_MG42Shot</defName>
+    <context>MapOnly</context>
+    <eventNames />
+    <maxSimultaneous>1</maxSimultaneous>
+    <subSounds>
+      <li>
+        <grains>
+          <li Class="AudioGrain_Clip">
+            <clipPath>Fired/Shot_MG42</clipPath>
+          </li>
+        </grains>
+        <volumeRange>
+          <min>20.2941</min>
+          <max>20.2941</max>
+        </volumeRange>
+        <pitchRange>
+          <min>1.011765</min>
+          <max>1</max>
+        </pitchRange>
+        <sustainLoop>False</sustainLoop>
+      </li>
+    </subSounds>
+  </SoundDef>
+</Defs>
