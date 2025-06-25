@@ -1,4 +1,4 @@
-# CombatEnthusiastsCollection
+# [Combat Enthusiast's Collection (Continued)](https://steamcommunity.com/sharedfiles/filedetails/?id=2847283634)
 
 ![Image](https://i.imgur.com/buuPQel.png)
 
@@ -8,7 +8,6 @@ Based on the 1.2 version by Androsss
 https://steamcommunity.com/sharedfiles/filedetails/?id=2221508815
 
 ![Image](https://i.imgur.com/pufA0kM.png)
-
 	
 ![Image](https://i.imgur.com/Z4GOv8H.png)
 
@@ -23,96 +22,70 @@ Version 1.1.4
 
 ![Image](https://i.imgur.com/vKP0foj.png)
 
-
 Comes with stats for Vanilla Rimworld and the following:
 
 Fully compatible with Combat Extended 1.5 and Combat Extended:FastTrack
-https://docs.google.com/spreadsheets/d/1sbDTCHFgkorfQTjs1D2xnyeY3KCP-53LjyfBgM7c6-Y/edit?usp=sharing]Stats Spreadsheet
+[Stats Spreadsheet](https://docs.google.com/spreadsheets/d/1sbDTCHFgkorfQTjs1D2xnyeY3KCP-53LjyfBgM7c6-Y/edit?usp=sharing)
 
 Fully compatible with ProperShotguns
 
 ![Image](https://i.imgur.com/TC0fBfe.png)
 
 
-
 ![Image](https://i.imgur.com/anGx7jU.png)
-
 
 ![Image](https://i.imgur.com/OO5JRvU.png)
 
-
 ![Image](https://i.imgur.com/loV43ON.png)
-
 
 ![Image](https://i.imgur.com/XE14gQy.png)
 
-
 ![Image](https://i.imgur.com/q3TeHO0.png)
-
 
 ![Image](https://i.imgur.com/tHArtVY.png)
 
-
 ![Image](https://i.imgur.com/Lj0c7vm.png)
-
 
 ![Image](https://i.imgur.com/Hj6mqaO.png)
 
-
 ![Image](https://i.imgur.com/MQOaTBf.png)
 
-
 ![Image](https://i.imgur.com/1FjTsRQ.png)
-
 
 ![Image](https://i.imgur.com/kNbtyBm.png)
 
 
 
-
 ![Image](https://i.imgur.com/4Hxv4HT.png)
-
 
 ![Image](https://i.imgur.com/gA6rAp9.png)
 
-
 ![Image](https://i.imgur.com/pJaeqMy.png)
-
 
 ![Image](https://i.imgur.com/HPYL5s4.png)
 
-
 ![Image](https://i.imgur.com/4H3Sftm.png)
-
 
 ![Image](https://i.imgur.com/WXKU5Vu.png)
 
-
 ![Image](https://i.imgur.com/T0Hmypx.png)
-
 
 ![Image](https://i.imgur.com/ISsRl0y.png)
 
-
 ![Image](https://i.imgur.com/W46OaVC.png)
-
 
 ![Image](https://i.imgur.com/If8ryTp.png)
 
-
 ![Image](https://i.imgur.com/jJmjUJ9.png)
 
+Featured:[Ushanka!](https://steamcommunity.com/sharedfiles/filedetails/?id=1512221383&amp;searchtext=ushanka)
 
-Featured:https://steamcommunity.com/sharedfiles/filedetails/?id=1512221383&amp;searchtext=ushanka]Ushanka!
-
-Featured:https://steamcommunity.com/sharedfiles/filedetails/?id=1346113625&amp;searchtext=Gloomy]Gloomy's Hairs
+Featured:[Gloomy's Hairs](https://steamcommunity.com/sharedfiles/filedetails/?id=1346113625&amp;searchtext=Gloomy)
 
 Featured: Jin-Roh: The Wolf Brigade Police Armor, click on the picture to check it out:
-https://steamcommunity.com/sharedfiles/filedetails/?id=1861644030]![Image](https://i.imgur.com/3wDGOVS.png])
-
+[[img]https://i.imgur.com/3wDGOVS.png][/img]](https://steamcommunity.com/sharedfiles/filedetails/?id=1861644030)
 
 ![Image](https://i.imgur.com/83vdKuU.png)
-
 
 Trunken - Kind words
 Meru - LoadOnDemand
@@ -142,13 +115,12 @@ Updates:
 
 -  See if the the error persists if you just have this mod and its requirements active.
 -  If not, try adding your other mods until it happens again.
--  Post your error-log using https://steamcommunity.com/workshop/filedetails/?id=818773962]HugsLib or the standalone https://steamcommunity.com/sharedfiles/filedetails/?id=2873415404]Uploader and command Ctrl+F12
+-  Post your error-log using [HugsLib](https://steamcommunity.com/workshop/filedetails/?id=818773962) or the standalone [Uploader](https://steamcommunity.com/sharedfiles/filedetails/?id=2873415404) and command Ctrl+F12
 -  For best support, please use the Discord-channel for error-reporting.
 -  Do not report errors by making a discussion-thread, I get no notification of that.
 -  If you have the solution for a problem, please post it to the GitHub repository.
--  Use https://github.com/RimSort/RimSort/releases/latest]RimSort to sort your mods
+-  Use [RimSort](https://github.com/RimSort/RimSort/releases/latest) to sort your mods
 
+ 
 
-
-https://steamcommunity.com/sharedfiles/filedetails/changelog/2847283634]![Image](https://img.shields.io/github/v/release/emipa606/CombatEnthusiastsCollection?label=latest%20version&style=plastic&color=9f1111&labelColor=black)
-
+[![Image](https://img.shields.io/github/v/release/emipa606/CombatEnthusiastsCollection?label=latest%20version&style=plastic&color=9f1111&labelColor=black)](https://steamcommunity.com/sharedfiles/filedetails/changelog/2847283634) | tags:  weapons

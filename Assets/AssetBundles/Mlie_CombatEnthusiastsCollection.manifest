@@ -1,0 +1,62 @@
+ManifestFileVersion: 0
+CRC: 2320237886
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 511a97247ce27a5189bafbae4f30153b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ce3b6d18a872ca8039cd5eb3c4fb7ef5
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 511a97247ce27a5189bafbae4f30153b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Data/Mlie.CombatEnthusiastsCollection/Textures/Things/WA2000.png
+- Assets/Data/Mlie.CombatEnthusiastsCollection/Sounds/Fired/Shot_DVL10.ogg
+- Assets/Data/Mlie.CombatEnthusiastsCollection/Textures/Things/Thunder.png
+- Assets/Data/Mlie.CombatEnthusiastsCollection/Textures/Things/KALWAMG.png
+- Assets/Data/Mlie.CombatEnthusiastsCollection/Textures/Things/G11.png
+- Assets/Data/Mlie.CombatEnthusiastsCollection/Textures/Things/Zip22.png
+- Assets/Data/Mlie.CombatEnthusiastsCollection/Sounds/Fired/Shot_A545.ogg
+- Assets/Data/Mlie.CombatEnthusiastsCollection/Sounds/Fired/Shot_Intervention.ogg
+- Assets/Data/Mlie.CombatEnthusiastsCollection/Textures/Things/AKS74U.png
+- Assets/Data/Mlie.CombatEnthusiastsCollection/Textures/Things/DVL10.png
+- Assets/Data/Mlie.CombatEnthusiastsCollection/Textures/Things/M200.png
+- Assets/Data/Mlie.CombatEnthusiastsCollection/Textures/Things/Suomi.png
+- Assets/Data/Mlie.CombatEnthusiastsCollection/Sounds/Fired/Shot_NTW20.ogg
+- Assets/Data/Mlie.CombatEnthusiastsCollection/Sounds/Fired/Shot_KnightsLWAMG.ogg
+- Assets/Data/Mlie.CombatEnthusiastsCollection/Sounds/Fired/Shot_M1A.ogg
+- Assets/Data/Mlie.CombatEnthusiastsCollection/Sounds/Fired/Shot_AN94.ogg
+- Assets/Data/Mlie.CombatEnthusiastsCollection/Sounds/Fired/Shot_WA2000.ogg
+- Assets/Data/Mlie.CombatEnthusiastsCollection/Textures/Things/PAW20.png
+- Assets/Data/Mlie.CombatEnthusiastsCollection/Textures/Things/MG42.png
+- Assets/Data/Mlie.CombatEnthusiastsCollection/Textures/Things/ScorpionEvo.png
+- Assets/Data/Mlie.CombatEnthusiastsCollection/Textures/Things/UTS15.png
+- Assets/Data/Mlie.CombatEnthusiastsCollection/Sounds/Fired/Shot_UTS15.ogg
+- Assets/Data/Mlie.CombatEnthusiastsCollection/Textures/Things/FiveSeven.png
+- Assets/Data/Mlie.CombatEnthusiastsCollection/Textures/Things/P90.png
+- Assets/Data/Mlie.CombatEnthusiastsCollection/Textures/Things/TacticalSledgehammer.png
+- Assets/Data/Mlie.CombatEnthusiastsCollection/Sounds/Fired/Shot_AKS74U.ogg
+- Assets/Data/Mlie.CombatEnthusiastsCollection/Sounds/Fired/SuppressedShot.ogg
+- Assets/Data/Mlie.CombatEnthusiastsCollection/Textures/Things/M14.png
+- Assets/Data/Mlie.CombatEnthusiastsCollection/Textures/Things/KnightsLWAMG.png
+- Assets/Data/Mlie.CombatEnthusiastsCollection/Textures/Things/NTW20.png
+- Assets/Data/Mlie.CombatEnthusiastsCollection/Sounds/Fired/Shot_SuperShorty.ogg
+- Assets/Data/Mlie.CombatEnthusiastsCollection/Textures/Things/ASVal.png
+- Assets/Data/Mlie.CombatEnthusiastsCollection/Sounds/Fired/Shot_G11.ogg
+- Assets/Data/Mlie.CombatEnthusiastsCollection/Textures/Things/Abakan.png
+- Assets/Data/Mlie.CombatEnthusiastsCollection/Sounds/Fired/Shot_Dragoon.ogg
+- Assets/Data/Mlie.CombatEnthusiastsCollection/Textures/Things/A545.png
+- Assets/Data/Mlie.CombatEnthusiastsCollection/Sounds/Fired/Shot_Suomi.ogg
+- Assets/Data/Mlie.CombatEnthusiastsCollection/Sounds/Fired/Shot_MG42.ogg
+- Assets/Data/Mlie.CombatEnthusiastsCollection/Textures/Things/Dragoon.png
+- Assets/Data/Mlie.CombatEnthusiastsCollection/Textures/Things/SuperShorty.png
+- Assets/Data/Mlie.CombatEnthusiastsCollection/Sounds/Fired/Shot_P90.ogg
+Dependencies: []

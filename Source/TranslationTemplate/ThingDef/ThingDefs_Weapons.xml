@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: anti materiel bullet -->
+  <Bullet_AntiMateriel.label>anti materiel bullet</Bullet_AntiMateriel.label>
+  <!-- EN: subsonic bullet -->
+  <Bullet_ASVal.label>subsonic bullet</Bullet_ASVal.label>
+  <!-- EN: battle rifle bullet -->
+  <Bullet_BattleRifle.label>battle rifle bullet</Bullet_BattleRifle.label>
+  <!-- EN: big iron's bullet -->
+  <Bullet_BigIron.label>big iron's bullet</Bullet_BigIron.label>
+  <!-- EN: bullpup sniper bullet -->
+  <Bullet_BullpupSniper.label>bullpup sniper bullet</Bullet_BullpupSniper.label>
+  <!-- EN: burst rifle bullet -->
+  <Bullet_BurstRifle.label>burst rifle bullet</Bullet_BurstRifle.label>
+  <!-- EN: clockwork AR bullet -->
+  <Bullet_ClockworkAR.label>clockwork AR bullet</Bullet_ClockworkAR.label>
+  <!-- EN: combat shotgun blast -->
+  <Bullet_CombatShotgun.label>combat shotgun blast</Bullet_CombatShotgun.label>
+  <!-- EN: compact service rifle bullet -->
+  <Bullet_CompactSR.label>compact service rifle bullet</Bullet_CompactSR.label>
+  <!-- EN: subatomic penetration rapid fire through your skull -->
+  <Bullet_Intervention.label>subatomic penetration rapid fire through your skull</Bullet_Intervention.label>
+  <!-- EN: light handgun bullet -->
+  <Bullet_LightHandgun.label>light handgun bullet</Bullet_LightHandgun.label>
+  <!-- EN: lightweight machinegun bullet -->
+  <Bullet_LWAMG.label>lightweight machinegun bullet</Bullet_LWAMG.label>
+  <!-- EN: modern service rifle bullet -->
+  <Bullet_MRS.label>modern service rifle bullet</Bullet_MRS.label>
+  <!-- EN: muffalo blasted -->
+  <Bullet_MuffaloCannon.label>muffalo blasted</Bullet_MuffaloCannon.label>
+  <!-- EN: neopup round -->
+  <Bullet_Neopup.label>neopup round</Bullet_Neopup.label>
+  <!-- EN: PDW bullet -->
+  <Bullet_PDW.label>PDW bullet</Bullet_PDW.label>
+  <!-- EN: saboteur bullet -->
+  <Bullet_Saboteur.label>saboteur bullet</Bullet_Saboteur.label>
+  <!-- EN: thunder bullet -->
+  <Bullet_Thunder.label>thunder bullet</Bullet_Thunder.label>
+  <!-- EN: TMG bullet -->
+  <Bullet_TMG.label>TMG bullet</Bullet_TMG.label>
+  <!-- EN: woodland SMG bullet -->
+  <Bullet_WoodlandSMG.label>woodland SMG bullet</Bullet_WoodlandSMG.label>
+  <!-- EN: zip bullet -->
+  <Bullet_Zip.label>zip bullet</Bullet_Zip.label>
+  <!-- EN: anti-materiel rifle -->
+  <CEC_AntiMaterielRifle.label>anti-materiel rifle</CEC_AntiMaterielRifle.label>
+  <!-- EN: A specialized anti-mechanoid rifle usually found at the hands of power armored and bionics augmented troopers strong enough to wield them. -->
+  <CEC_AntiMaterielRifle.description>A specialized anti-mechanoid rifle usually found at the hands of power armored and bionics augmented troopers strong enough to wield them.</CEC_AntiMaterielRifle.description>
+  <!-- EN: stock -->
+  <CEC_AntiMaterielRifle.tools.stock.label>stock</CEC_AntiMaterielRifle.tools.stock.label>
+  <!-- EN: barrel -->
+  <CEC_AntiMaterielRifle.tools.barrel.label>barrel</CEC_AntiMaterielRifle.tools.barrel.label>
+  <!-- EN: anti-materiel rifle -->
+  <CEC_AntiMaterielRifle.verbs.Verb_Shoot.label>anti-materiel rifle</CEC_AntiMaterielRifle.verbs.Verb_Shoot.label>
+  <!-- EN: battle rifle -->
+  <CEC_BattleRifle.label>battle rifle</CEC_BattleRifle.label>
+  <!-- EN: Semi-automatic rifle intended for medium to long range engagements. -->
+  <CEC_BattleRifle.description>Semi-automatic rifle intended for medium to long range engagements.</CEC_BattleRifle.description>
+  <!-- EN: stock -->
+  <CEC_BattleRifle.tools.stock.label>stock</CEC_BattleRifle.tools.stock.label>
+  <!-- EN: barrel -->
+  <CEC_BattleRifle.tools.barrel.label>barrel</CEC_BattleRifle.tools.barrel.label>
+  <!-- EN: battle rifle -->
+  <CEC_BattleRifle.verbs.Verb_Shoot.label>battle rifle</CEC_BattleRifle.verbs.Verb_Shoot.label>
+  <!-- EN: Big Iron -->
+  <CEC_BigIron.label>Big Iron</CEC_BigIron.label>
+  <!-- EN: To a settlement rode a stranger one fine day; hardly spoke to folks around him, didn't have too much to say, no one dared to ask his business, no one dared to make a slip; the stranger there among them had a big iron on his hip... Big Iron on his hip. -->
+  <CEC_BigIron.description>To a settlement rode a stranger one fine day; hardly spoke to folks around him, didn't have too much to say, no one dared to ask his business, no one dared to make a slip; the stranger there among them had a big iron on his hip... Big Iron on his hip.</CEC_BigIron.description>
+  <!-- EN: grip -->
+  <CEC_BigIron.tools.grip.label>grip</CEC_BigIron.tools.grip.label>
+  <!-- EN: barrel -->
+  <CEC_BigIron.tools.barrel.label>barrel</CEC_BigIron.tools.barrel.label>
+  <!-- EN: Big Iron -->
+  <CEC_BigIron.verbs.Verb_Shoot.label>Big Iron</CEC_BigIron.verbs.Verb_Shoot.label>
+  <!-- EN: light carbine bullet -->
+  <CEC_Bullet_LightCarbine.label>light carbine bullet</CEC_Bullet_LightCarbine.label>
+  <!-- EN: bullpup sniper rifle -->
+  <CEC_BullpupSniper.label>bullpup sniper rifle</CEC_BullpupSniper.label>
+  <!-- EN: A semi-automatic precision rifle where the firing mechanism is located at the back of the gun, which shortens its overall length making it ideal for urban areas. Known to be actually quite rare. -->
+  <CEC_BullpupSniper.description>A semi-automatic precision rifle where the firing mechanism is located at the back of the gun, which shortens its overall length making it ideal for urban areas. Known to be actually quite rare.</CEC_BullpupSniper.description>
+  <!-- EN: stock -->
+  <CEC_BullpupSniper.tools.stock.label>stock</CEC_BullpupSniper.tools.stock.label>
+  <!-- EN: barrel -->
+  <CEC_BullpupSniper.tools.barrel.label>barrel</CEC_BullpupSniper.tools.barrel.label>
+  <!-- EN: bullpup sniper rifle -->
+  <CEC_BullpupSniper.verbs.Verb_Shoot.label>bullpup sniper rifle</CEC_BullpupSniper.verbs.Verb_Shoot.label>
+  <!-- EN: burst rifle -->
+  <CEC_BurstRifle.label>burst rifle</CEC_BurstRifle.label>
+  <!-- EN: An experimental rifle, able to fire a burst of two rounds as fast as mechanically possible before the recoil is felt by the user. This increases the likelihood of a shot hitting the target while increasing target reacquisition with its short burst. -->
+  <CEC_BurstRifle.description>An experimental rifle, able to fire a burst of two rounds as fast as mechanically possible before the recoil is felt by the user. This increases the likelihood of a shot hitting the target while increasing target reacquisition with its short burst.</CEC_BurstRifle.description>
+  <!-- EN: stock -->
+  <CEC_BurstRifle.tools.stock.label>stock</CEC_BurstRifle.tools.stock.label>
+  <!-- EN: barrel -->
+  <CEC_BurstRifle.tools.barrel.label>barrel</CEC_BurstRifle.tools.barrel.label>
+  <!-- EN: burst rifle -->
+  <CEC_BurstRifle.verbs.Verb_Shoot.label>burst rifle</CEC_BurstRifle.verbs.Verb_Shoot.label>
+  <!-- EN: clockwork assault rifle -->
+  <CEC_ClockworkAR.label>clockwork assault rifle</CEC_ClockworkAR.label>
+  <!-- EN: An engineering marvel, often confused for spacer tech for its three-round salvo that fires before the recoil is even felt by the user. With an intimidatingly complex firing mechanism, disassembling this gun for maintenance is often compared to disassembling a mechanoid. -->
+  <CEC_ClockworkAR.description>An engineering marvel, often confused for spacer tech for its three-round salvo that fires before the recoil is even felt by the user. With an intimidatingly complex firing mechanism, disassembling this gun for maintenance is often compared to disassembling a mechanoid.</CEC_ClockworkAR.description>
+  <!-- EN: stock -->
+  <CEC_ClockworkAR.tools.stock.label>stock</CEC_ClockworkAR.tools.stock.label>
+  <!-- EN: internal clock -->
+  <CEC_ClockworkAR.tools.internal_clock.label>internal clock</CEC_ClockworkAR.tools.internal_clock.label>
+  <!-- EN: clockwork assault rifle -->
+  <CEC_ClockworkAR.verbs.Verb_Shoot.label>clockwork assault rifle</CEC_ClockworkAR.verbs.Verb_Shoot.label>
+  <!-- EN: combat shotgun -->
+  <CEC_CombatShotgun.label>combat shotgun</CEC_CombatShotgun.label>
+  <!-- EN: A shotgun used mainly by town guards in tight spaces. Its fairly decent round capacity makes it ideal for police raids. -->
+  <CEC_CombatShotgun.description>A shotgun used mainly by town guards in tight spaces. Its fairly decent round capacity makes it ideal for police raids.</CEC_CombatShotgun.description>
+  <!-- EN: stock -->
+  <CEC_CombatShotgun.tools.stock.label>stock</CEC_CombatShotgun.tools.stock.label>
+  <!-- EN: barrel -->
+  <CEC_CombatShotgun.tools.barrel.label>barrel</CEC_CombatShotgun.tools.barrel.label>
+  <!-- EN: combat shotgun -->
+  <CEC_CombatShotgun.verbs.Verb_Shoot.label>combat shotgun</CEC_CombatShotgun.verbs.Verb_Shoot.label>
+  <!-- EN: compact service rifle -->
+  <CEC_CompactSR.label>compact service rifle</CEC_CompactSR.label>
+  <!-- EN: A shortened service rifle intended to cut manufacturing costs and bridge the gap between a submachine gun and an assault rifle. Quite reliable, but don't expect too much. -->
+  <CEC_CompactSR.description>A shortened service rifle intended to cut manufacturing costs and bridge the gap between a submachine gun and an assault rifle. Quite reliable, but don't expect too much.</CEC_CompactSR.description>
+  <!-- EN: stock -->
+  <CEC_CompactSR.tools.stock.label>stock</CEC_CompactSR.tools.stock.label>
+  <!-- EN: barrel -->
+  <CEC_CompactSR.tools.barrel.label>barrel</CEC_CompactSR.tools.barrel.label>
+  <!-- EN: compact service rifle -->
+  <CEC_CompactSR.verbs.Verb_Shoot.label>compact service rifle</CEC_CompactSR.verbs.Verb_Shoot.label>
+  <!-- EN: Saboteur -->
+  <CEC_DVLTen.label>Saboteur</CEC_DVLTen.label>
+  <!-- EN: A long-range bolt-action sniper rifle originally found in urban northern areas. Known for its long range. -->
+  <CEC_DVLTen.description>A long-range bolt-action sniper rifle originally found in urban northern areas. Known for its long range.</CEC_DVLTen.description>
+  <!-- EN: stock -->
+  <CEC_DVLTen.tools.stock.label>stock</CEC_DVLTen.tools.stock.label>
+  <!-- EN: barrel -->
+  <CEC_DVLTen.tools.barrel.label>barrel</CEC_DVLTen.tools.barrel.label>
+  <!-- EN: Saboteur -->
+  <CEC_DVLTen.verbs.Verb_Shoot.label>Saboteur</CEC_DVLTen.verbs.Verb_Shoot.label>
+  <!-- EN: light handgun -->
+  <CEC_FiveSeven.label>light handgun</CEC_FiveSeven.label>
+  <!-- EN: A lightweight handgun manufactured with the same materials as the PDW, as well as use the same rounds designed to penetrate light armor which regular pistol rounds could not. -->
+  <CEC_FiveSeven.description>A lightweight handgun manufactured with the same materials as the PDW, as well as use the same rounds designed to penetrate light armor which regular pistol rounds could not.</CEC_FiveSeven.description>
+  <!-- EN: grip -->
+  <CEC_FiveSeven.tools.grip.label>grip</CEC_FiveSeven.tools.grip.label>
+  <!-- EN: barrel -->
+  <CEC_FiveSeven.tools.barrel.label>barrel</CEC_FiveSeven.tools.barrel.label>
+  <!-- EN: light handgun -->
+  <CEC_FiveSeven.verbs.Verb_Shoot.label>light handgun</CEC_FiveSeven.verbs.Verb_Shoot.label>
+  <!-- EN: Intervention -->
+  <CEC_Intervention.label>Intervention</CEC_Intervention.label>
+  <!-- EN: A bolt-action sniper rifle, renowned for its precision and range. A fair amount of record breaking shots within the Rim were fired from this rifle. -->
+  <CEC_Intervention.description>A bolt-action sniper rifle, renowned for its precision and range. A fair amount of record breaking shots within the Rim were fired from this rifle.</CEC_Intervention.description>
+  <!-- EN: stock -->
+  <CEC_Intervention.tools.stock.label>stock</CEC_Intervention.tools.stock.label>
+  <!-- EN: barrel -->
+  <CEC_Intervention.tools.barrel.label>barrel</CEC_Intervention.tools.barrel.label>
+  <!-- EN: Intervention -->
+  <CEC_Intervention.verbs.Verb_Shoot.label>Intervention</CEC_Intervention.verbs.Verb_Shoot.label>
+  <!-- EN: lightweight assault machinegun -->
+  <CEC_LWAMG.label>lightweight assault machinegun</CEC_LWAMG.label>
+  <!-- EN: Despite its designation and looks, this machinegun boasts an incredibly light weight which enables its user to also use it as an assault weapon if not used for supressive fire. -->
+  <CEC_LWAMG.description>Despite its designation and looks, this machinegun boasts an incredibly light weight which enables its user to also use it as an assault weapon if not used for supressive fire.</CEC_LWAMG.description>
+  <!-- EN: stock -->
+  <CEC_LWAMG.tools.stock.label>stock</CEC_LWAMG.tools.stock.label>
+  <!-- EN: barrel -->
+  <CEC_LWAMG.tools.barrel.label>barrel</CEC_LWAMG.tools.barrel.label>
+  <!-- EN: lightweight assault machinegun -->
+  <CEC_LWAMG.verbs.Verb_Shoot.label>lightweight assault machinegun</CEC_LWAMG.verbs.Verb_Shoot.label>
+  <!-- EN: modern service rifle -->
+  <CEC_MRS.label>modern service rifle</CEC_MRS.label>
+  <!-- EN: An enhanced gas-operation rifle that significantly reduces its recoil with a counter-weight that simultaneously operates towards the opposite direction of the original gas piston. -->
+  <CEC_MRS.description>An enhanced gas-operation rifle that significantly reduces its recoil with a counter-weight that simultaneously operates towards the opposite direction of the original gas piston.</CEC_MRS.description>
+  <!-- EN: stock -->
+  <CEC_MRS.tools.stock.label>stock</CEC_MRS.tools.stock.label>
+  <!-- EN: barrel -->
+  <CEC_MRS.tools.barrel.label>barrel</CEC_MRS.tools.barrel.label>
+  <!-- EN: modern service rifle -->
+  <CEC_MRS.verbs.Verb_Shoot.label>modern service rifle</CEC_MRS.verbs.Verb_Shoot.label>
+  <!-- EN: Muffalo Cannon -->
+  <CEC_MuffaloCannon.label>Muffalo Cannon</CEC_MuffaloCannon.label>
+  <!-- EN: From the muffalo's pouch, this shorty is quickly drawn in a caravan ambush. While not as intimidating as a regular shotgun, a blast from the mufallo cannon can still be staggering. -->
+  <CEC_MuffaloCannon.description>From the muffalo's pouch, this shorty is quickly drawn in a caravan ambush. While not as intimidating as a regular shotgun, a blast from the mufallo cannon can still be staggering.</CEC_MuffaloCannon.description>
+  <!-- EN: grip -->
+  <CEC_MuffaloCannon.tools.grip.label>grip</CEC_MuffaloCannon.tools.grip.label>
+  <!-- EN: barrel -->
+  <CEC_MuffaloCannon.tools.barrel.label>barrel</CEC_MuffaloCannon.tools.barrel.label>
+  <!-- EN: Muffalo Cannon -->
+  <CEC_MuffaloCannon.verbs.Verb_Shoot.label>Muffalo Cannon</CEC_MuffaloCannon.verbs.Verb_Shoot.label>
+  <!-- EN: Neopup -->
+  <CEC_Neopup.label>Neopup</CEC_Neopup.label>
+  <!-- EN: An anti-personnel grenade launcher used for breaching wooden walls and engaging small groups of enemies. -->
+  <CEC_Neopup.description>An anti-personnel grenade launcher used for breaching wooden walls and engaging small groups of enemies.</CEC_Neopup.description>
+  <!-- EN: stock -->
+  <CEC_Neopup.tools.stock.label>stock</CEC_Neopup.tools.stock.label>
+  <!-- EN: barrel -->
+  <CEC_Neopup.tools.barrel.label>barrel</CEC_Neopup.tools.barrel.label>
+  <!-- EN: Neopup -->
+  <CEC_Neopup.verbs.Verb_Shoot.label>Neopup</CEC_Neopup.verbs.Verb_Shoot.label>
+  <!-- EN: PDW -->
+  <CEC_PDW.label>PDW</CEC_PDW.label>
+  <!-- EN: A compact and unique firearm manufactured with strong, lightweight plasteel. Often used for its close-quarters combat capabilities and its large magazine capacity. -->
+  <CEC_PDW.description>A compact and unique firearm manufactured with strong, lightweight plasteel. Often used for its close-quarters combat capabilities and its large magazine capacity.</CEC_PDW.description>
+  <!-- EN: stock -->
+  <CEC_PDW.tools.stock.label>stock</CEC_PDW.tools.stock.label>
+  <!-- EN: barrel -->
+  <CEC_PDW.tools.barrel.label>barrel</CEC_PDW.tools.barrel.label>
+  <!-- EN: PDW -->
+  <CEC_PDW.verbs.Verb_Shoot.label>PDW</CEC_PDW.verbs.Verb_Shoot.label>
+  <!-- EN: light carbine -->
+  <CEC_SkorpionEvo.label>light carbine</CEC_SkorpionEvo.label>
+  <!-- EN: A lightweight, blowback operated submachine gun that sprays out bullets at an incredible rate, giving it suitable stopping power for confined spaces. -->
+  <CEC_SkorpionEvo.description>A lightweight, blowback operated submachine gun that sprays out bullets at an incredible rate, giving it suitable stopping power for confined spaces.</CEC_SkorpionEvo.description>
+  <!-- EN: stock -->
+  <CEC_SkorpionEvo.tools.stock.label>stock</CEC_SkorpionEvo.tools.stock.label>
+  <!-- EN: barrel -->
+  <CEC_SkorpionEvo.tools.barrel.label>barrel</CEC_SkorpionEvo.tools.barrel.label>
+  <!-- EN: light carbine -->
+  <CEC_SkorpionEvo.verbs.Verb_Shoot.label>light carbine</CEC_SkorpionEvo.verbs.Verb_Shoot.label>
+  <!-- EN: subsonic rifle -->
+  <CEC_SSRifle.label>subsonic rifle</CEC_SSRifle.label>
+  <!-- EN: A rifle designed with an integrated supressor. Its use of heavy subsonic ammunition increases its stealth capabilities by eliminating the sonic boom that comes with higher velocity calibers, and for this it has a shorter effective range. -->
+  <CEC_SSRifle.description>A rifle designed with an integrated supressor. Its use of heavy subsonic ammunition increases its stealth capabilities by eliminating the sonic boom that comes with higher velocity calibers, and for this it has a shorter effective range.</CEC_SSRifle.description>
+  <!-- EN: stock -->
+  <CEC_SSRifle.tools.stock.label>stock</CEC_SSRifle.tools.stock.label>
+  <!-- EN: barrel -->
+  <CEC_SSRifle.tools.barrel.label>barrel</CEC_SSRifle.tools.barrel.label>
+  <!-- EN: subsonic rifle -->
+  <CEC_SSRifle.verbs.Verb_Shoot.label>subsonic rifle</CEC_SSRifle.verbs.Verb_Shoot.label>
+  <!-- EN: tactical sledgehammer -->
+  <CEC_TacticalSledgeHammer.label>tactical sledgehammer</CEC_TacticalSledgeHammer.label>
+  <!-- EN: A sledgehammer equipped with a thermal scope, tacitcal flashlight and laser sights. The handle also includes an angled foregrip for increased ergonomics. Really, what makes this expensive is the thermal scope. -->
+  <CEC_TacticalSledgeHammer.description>A sledgehammer equipped with a thermal scope, tacitcal flashlight and laser sights. The handle also includes an angled foregrip for increased ergonomics. Really, what makes this expensive is the thermal scope.</CEC_TacticalSledgeHammer.description>
+  <!-- EN: head -->
+  <CEC_TacticalSledgeHammer.tools.head.label>head</CEC_TacticalSledgeHammer.tools.head.label>
+  <!-- EN: handle -->
+  <CEC_TacticalSledgeHammer.tools.handle.label>handle</CEC_TacticalSledgeHammer.tools.handle.label>
+  <!-- EN: broken scope glass shards -->
+  <CEC_TacticalSledgeHammer.tools.broken_scope_glass_shards.label>broken scope glass shards</CEC_TacticalSledgeHammer.tools.broken_scope_glass_shards.label>
+  <!-- EN: Thunder -->
+  <CEC_Thunder.label>Thunder</CEC_Thunder.label>
+  <!-- EN: A rare breech-loaded single shot handgun that uses anti-materiel rounds. -->
+  <CEC_Thunder.description>A rare breech-loaded single shot handgun that uses anti-materiel rounds.</CEC_Thunder.description>
+  <!-- EN: grip -->
+  <CEC_Thunder.tools.grip.label>grip</CEC_Thunder.tools.grip.label>
+  <!-- EN: barrel -->
+  <CEC_Thunder.tools.barrel.label>barrel</CEC_Thunder.tools.barrel.label>
+  <!-- EN: Thunder -->
+  <CEC_Thunder.verbs.Verb_Shoot.label>Thunder</CEC_Thunder.verbs.Verb_Shoot.label>
+  <!-- EN: trench machine gun -->
+  <CEC_TMG.label>trench machine gun</CEC_TMG.label>
+  <!-- EN: A relatively cheap machinegun ideal for providing surpressive fire. -->
+  <CEC_TMG.description>A relatively cheap machinegun ideal for providing surpressive fire.</CEC_TMG.description>
+  <!-- EN: stock -->
+  <CEC_TMG.tools.stock.label>stock</CEC_TMG.tools.stock.label>
+  <!-- EN: barrel -->
+  <CEC_TMG.tools.barrel.label>barrel</CEC_TMG.tools.barrel.label>
+  <!-- EN: trench machine gun -->
+  <CEC_TMG.verbs.Verb_Shoot.label>trench machine gun</CEC_TMG.verbs.Verb_Shoot.label>
+  <!-- EN: woodland SMG -->
+  <CEC_WoodlandSMG.label>woodland SMG</CEC_WoodlandSMG.label>
+  <!-- EN: This ancient-pattern submachine gun prides itself in its controllable recoil despite its high rate of fire and weight. -->
+  <CEC_WoodlandSMG.description>This ancient-pattern submachine gun prides itself in its controllable recoil despite its high rate of fire and weight.</CEC_WoodlandSMG.description>
+  <!-- EN: stock -->
+  <CEC_WoodlandSMG.tools.stock.label>stock</CEC_WoodlandSMG.tools.stock.label>
+  <!-- EN: barrel -->
+  <CEC_WoodlandSMG.tools.barrel.label>barrel</CEC_WoodlandSMG.tools.barrel.label>
+  <!-- EN: woodland SMG -->
+  <CEC_WoodlandSMG.verbs.Verb_Shoot.label>woodland SMG</CEC_WoodlandSMG.verbs.Verb_Shoot.label>
+  <!-- EN: boxed handgun -->
+  <CEC_Zipper.label>boxed handgun</CEC_Zipper.label>
+  <!-- EN: Considered to be an oddity even around the Rim. Extreme care is necessary to not have one's fingers shot off with this trinket of a gun, but it's better than nothing. -->
+  <CEC_Zipper.description>Considered to be an oddity even around the Rim. Extreme care is necessary to not have one's fingers shot off with this trinket of a gun, but it's better than nothing.</CEC_Zipper.description>
+  <!-- EN: stock -->
+  <CEC_Zipper.tools.stock.label>stock</CEC_Zipper.tools.stock.label>
+  <!-- EN: barrel -->
+  <CEC_Zipper.tools.barrel.label>barrel</CEC_Zipper.tools.barrel.label>
+  <!-- EN: boxed handgun -->
+  <CEC_Zipper.verbs.Verb_Shoot.label>boxed handgun</CEC_Zipper.verbs.Verb_Shoot.label>
+</LanguageData>
